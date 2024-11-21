@@ -70,19 +70,19 @@ export const movies = [
   { id: 57, title: "Psicosis", emojis: ["🔪", "🚿", "🏚️"], genre: "Terror" },
   { id: 58, title: "La casa de los 1000 cadáveres", emojis: ["🎭", "💀", "🏚️"], genre: "Terror" },
   { id: 59, title: "Midsommar", emojis: ["🌅", "🌸", "😱"], genre: "Terror" },
-  { id: 60, title: "El proyecto de la bruja de Blair", emojis: ["🏞️", "👻", "🎥"], genre: "Terror" }
+  { id: 60, title: "El proyecto de la bruja de Blair", emojis: ["🏞️", "👻", "🎥"], genre: "Terror" },
 
   // Fantasía
-  { id: 61, title: "Harry Potter", emojis: ["🧙‍♂️", "🪄", "⚡"], genre: "Fantasía" },
-  { id: 62, title: "El Señor de los Anillos", emojis: ["💍", "🧙‍♂️", "🧝‍♂️"], genre: "Fantasía" },
-  { id: 63, title: "Las crónicas de Narnia", emojis: ["🦁", "⚔️", "🌲"], genre: "Fantasía" },
-  { id: 64, title: "El Hobbit", emojis: ["🧝‍♂️", "💍", "🗡️"], genre: "Fantasía" },
-  { id: 65, title: "Alicia en el País de las Maravillas", emojis: ["🐇", "🎩", "👸"], genre: "Fantasía" },
-  { id: 66, title: "La brújula dorada", emojis: ["🧭", "🦣", "⚔️"], genre: "Fantasía" },
-  { id: 67, title: "Stardust", emojis: ["⭐", "🦄", "🌍"], genre: "Fantasía" },
-  { id: 68, title: "La historia interminable", emojis: ["🦄", "📖", "🐉"], genre: "Fantasía" },
-  { id: 69, title: "Las crónicas de Narnia", emojis: ["🦁", "⚔️", "🧊"], genre: "Fantasía" },
-  { id: 70, title: "Percy Jackson y el ladrón del rayo", emojis: ["⚡", "🌊", "🧙‍♂️"], genre: "Fantasía" }
+  { id: 61, title: "Harry Potter", emojis: ["🧙‍♂️", "🪄", "⚡"], genre: "Fantasia" },
+  { id: 62, title: "El Señor de los Anillos", emojis: ["💍", "🧙‍♂️", "🧝‍♂️"], genre: "Fantasia" },
+  { id: 63, title: "Las crónicas de Narnia", emojis: ["🦁", "⚔️", "🌲"], genre: "Fantasia" },
+  { id: 64, title: "El Hobbit", emojis: ["🧝‍♂️", "💍", "🗡️"], genre: "Fantasia" },
+  { id: 65, title: "Alicia en el País de las Maravillas", emojis: ["🐇", "🎩", "👸"], genre: "Fantasia" },
+  { id: 66, title: "La brújula dorada", emojis: ["🧭", "🦣", "⚔️"], genre: "Fantasia" },
+  { id: 67, title: "Stardust", emojis: ["⭐", "🦄", "🌍"], genre: "Fantasia" },
+  { id: 68, title: "La historia interminable", emojis: ["🦄", "📖", "🐉"], genre: "Fantasia" },
+  { id: 69, title: "Las crónicas de Narnia", emojis: ["🦁", "⚔️", "🧊"], genre: "Fantasia" },
+  { id: 70, title: "Percy Jackson y el ladrón del rayo", emojis: ["⚡", "🌊", "🧙‍♂️"], genre: "Fantasia" },
 
   // Misterio
   { id: 71, title: "El sexto sentido", emojis: ["👻", "🧒", "😱"], genre: "Misterio" },
@@ -94,19 +94,19 @@ export const movies = [
   { id: 77, title: "La isla mínima", emojis: ["🌾", "🕵️‍♂️", "⚖️"], genre: "Misterio" },
   { id: 78, title: "Prisoners", emojis: ["🔒", "👧", "🕵️‍♂️"], genre: "Misterio" },
   { id: 79, title: "Los otros", emojis: ["🏚️", "👻", "🎭"], genre: "Misterio" },
-  { id: 80, title: "El cadáver de Anna Fritz", emojis: ["💀", "🎬", "🔍"], genre: "Misterio" }
+  { id: 80, title: "El cadáver de Anna Fritz", emojis: ["💀", "🎬", "🔍"], genre: "Misterio" },
 
   // Romántico
-  { id: 81, title: "Bajo el sol de la Toscana", emojis: ["🏠", "🌻", "🇮🇹"], genre: "Romántico" },
-  { id: 82, title: "La La Land", emojis: ["🎶", "💃", "❤️"], genre: "Romántico" },
-  { id: 83, title: "Titanic", emojis: ["🚢", "❤️", "❄️"], genre: "Romántico" },
-  { id: 84, title: "Cuatro bodas y un funeral", emojis: ["💒", "💍", "👰‍♀️"], genre: "Romántico" },
-  { id: 85, title: "Notting Hill", emojis: ["🏙️", "🍷", "❤️"], genre: "Romántico" },
-  { id: 86, title: "Eterno resplandor de una mente sin recuerdos", emojis: ["💭", "💔", "🎨"], genre: "Romántico" },
-  { id: 87, title: "Antes del amanecer", emojis: ["🌅", "💬", "❤️"], genre: "Romántico" },
-  { id: 88, title: "Cuando Harry encontró a Sally", emojis: ["☕", "💬", "❤️"], genre: "Romántico" },
-  { id: 89, title: "Un paseo para recordar", emojis: ["🌻", "❤️", "🎓"], genre: "Romántico" },
-  { id: 90, title: "Mensaje en una botella", emojis: ["📩", "🌊", "❤️"], genre: "Romántico" }
+  { id: 81, title: "Bajo el sol de la Toscana", emojis: ["🏠", "🌻", "🇮🇹"], genre: "Romantico" },
+  { id: 82, title: "La La Land", emojis: ["🎶", "💃", "❤️"], genre: "Romantico" },
+  { id: 83, title: "Titanic", emojis: ["🚢", "❤️", "❄️"], genre: "Romantico" },
+  { id: 84, title: "Cuatro bodas y un funeral", emojis: ["💒", "💍", "👰‍♀️"], genre: "Romantico" },
+  { id: 85, title: "Notting Hill", emojis: ["🏙️", "🍷", "❤️"], genre: "Romantico" },
+  { id: 86, title: "Eterno resplandor de una mente sin recuerdos", emojis: ["💭", "💔", "🎨"], genre: "Romantico" },
+  { id: 87, title: "Antes del amanecer", emojis: ["🌅", "💬", "❤️"], genre: "Romantico" },
+  { id: 88, title: "Cuando Harry encontró a Sally", emojis: ["☕", "💬", "❤️"], genre: "Romantico" },
+  { id: 89, title: "Un paseo para recordar", emojis: ["🌻", "❤️", "🎓"], genre: "Romantico" },
+  { id: 90, title: "Mensaje en una botella", emojis: ["📩", "🌊", "❤️"], genre: "Romantico" },
 
   // Thriller
   { id: 91, title: "La isla siniestra", emojis: ["🏝️", "🧠", "🔪"], genre: "Thriller" },
@@ -118,7 +118,7 @@ export const movies = [
   { id: 97, title: "Los sospechosos habituales", emojis: ["💼", "🕵️‍♂️", "🔪"], genre: "Thriller" },
   { id: 98, title: "Prisoners", emojis: ["🔒", "👧", "🕵️‍♂️"], genre: "Thriller" },
   { id: 99, title: "El truco final", emojis: ["🎩", "🎭", "🎬"], genre: "Thriller" },
-  { id: 100, title: "La ventana indiscreta", emojis: ["👀", "🏙️", "🔪"], genre: "Thriller" }
+  { id: 100, title: "La ventana indiscreta", emojis: ["👀", "🏙️", "🔪"], genre: "Thriller" },
 
   // Musical
   { id: 101, title: "La La Land", emojis: ["🎶", "💃", "❤️"], genre: "Musical" },
@@ -130,17 +130,17 @@ export const movies = [
   { id: 107, title: "Canto para ti", emojis: ["🎤", "❤️", "🎵"], genre: "Musical" },
   { id: 108, title: "Sweeney Todd", emojis: ["🔪", "🎶", "💀"], genre: "Musical" },
   { id: 109, title: "Rent", emojis: ["🎤", "❤️", "🌆"], genre: "Musical" },
-  { id: 110, title: "West Side Story", emojis: ["🎭", "❤️", "🌆"], genre: "Musical" }
+  { id: 110, title: "West Side Story", emojis: ["🎭", "❤️", "🌆"], genre: "Musical" },
 
   // Animación
-  { id: 111, title: "Toy Story", emojis: ["🚀", "🤠", "🧸"], genre: "Animación" },
-  { id: 112, title: "El rey león", emojis: ["🦁", "👑", "🎶"], genre: "Animación" },
-  { id: 113, title: "Buscando a Nemo", emojis: ["🐠", "🌊", "🐡"], genre: "Animación" },
-  { id: 114, title: "Shrek", emojis: ["👹", "🐴", "❤️"], genre: "Animación" },
-  { id: 115, title: "Frozen", emojis: ["❄️", "👭", "👑"], genre: "Animación" },
-  { id: 116, title: "Monstruos, S.A.", emojis: ["👹", "👧", "🏢"], genre: "Animación" },
-  { id: 117, title: "Los Increíbles", emojis: ["🦸‍♂️", "🦸‍♀️", "⚡"], genre: "Animación" },
-  { id: 118, title: "Coco", emojis: ["🎸", "💀", "🇲🇽"], genre: "Animación" },
-  { id: 119, title: "Ratatouille", emojis: ["🍝", "🐭", "🍴"], genre: "Animación" },
-  { id: 120, title: "El viaje de Chihiro", emojis: ["🚂", "🌲", "🐉"], genre: "Animación" }
+  { id: 111, title: "Toy Story", emojis: ["🚀", "🤠", "🧸"], genre: "Animacion" },
+  { id: 112, title: "El rey león", emojis: ["🦁", "👑", "🎶"], genre: "Animacion" },
+  { id: 113, title: "Buscando a Nemo", emojis: ["🐠", "🌊", "🐡"], genre: "Animacion" },
+  { id: 114, title: "Shrek", emojis: ["👹", "🐴", "❤️"], genre: "Animacion" },
+  { id: 115, title: "Frozen", emojis: ["❄️", "👭", "👑"], genre: "Animacion" },
+  { id: 116, title: "Monstruos, S.A.", emojis: ["👹", "👧", "🏢"], genre: "Animacion" },
+  { id: 117, title: "Los Increíbles", emojis: ["🦸‍♂️", "🦸‍♀️", "⚡"], genre: "Animacion" },
+  { id: 118, title: "Coco", emojis: ["🎸", "💀", "🇲🇽"], genre: "Animacion" },
+  { id: 119, title: "Ratatouille", emojis: ["🍝", "🐭", "🍴"], genre: "Animacion" },
+  { id: 120, title: "El viaje de Chihiro", emojis: ["🚂", "🌲", "🐉"], genre: "Animacion" }
 ];
