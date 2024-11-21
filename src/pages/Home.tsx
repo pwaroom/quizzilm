@@ -23,7 +23,7 @@ export function Home() {
         <p className="text-gray-600">¿Cuanto sabes de pelis?</p>
       </motion.div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className="grid grid-cols-2 md:grid-cols-2 gap-4">
         {genres.map((genre) => {
           // Obtener la cantidad de respuestas correctas para este género
           const correctCount = getCorrectAnswersCount(genre.id);

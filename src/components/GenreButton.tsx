@@ -17,9 +17,9 @@ export function GenreButton({ genre, onClick, correctCount }: GenreButtonProps) 
     <motion.button
       whileTap={{ scale: 0.95 }}
       onClick={onClick}
-      className={`w-full p-4 rounded-xl text-left relative overflow-hidden ${
+      className={`w-full p-6 rounded-xl text-left relative overflow-hidden ${
         isCompleted ? 'bg-purple-700' : 'bg-purple-600'
-      } text-white mb-4`}
+      } text-white mb-4 h-24 md:h-32`}
     >
       
       <div className="flex justify-between items-center mb-2">
@@ -50,8 +50,8 @@ export function GenreButton({ genre, onClick, correctCount }: GenreButtonProps) 
         <motion.div
           initial={{ scale: 0 }}
           animate={{ scale: 1 }}
-          className="absolute top-2 right-2 text-yellow-300 text-2xl"
-        >
+      className="absolute top-2 right-2 text-yellow-300 text-2xl"
+          >
         </motion.div>
       )}
     </motion.button>
