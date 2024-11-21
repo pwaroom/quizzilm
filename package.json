@@ -4,13 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "react-scripts build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "start": "react-scripts start",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "dev": "vite",                     // Desarrollo con Vite
+    "build": "vite build",              // Construcción con Vite
+    "lint": "eslint .",                 // Linting
+    "preview": "vite preview",          // Vista previa con Vite
+    "start": "vite",                    // Iniciar el servidor con Vite
+    "test": "react-scripts test",       // Puedes mantener react-scripts para tests si lo deseas
+    "eject": "react-scripts eject"      // También si necesitas eject
   },
   "dependencies": {
     "framer-motion": "^11.0.8",
@@ -23,7 +23,7 @@
     "@eslint/js": "^9.9.1",
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
+    "@vitejs/plugin-react": "^4.3.1",  // Asegúrate de tener este plugin para Vite
     "autoprefixer": "^10.4.18",
     "eslint": "^9.9.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
